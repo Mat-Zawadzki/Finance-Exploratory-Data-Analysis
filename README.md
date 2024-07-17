@@ -1,6 +1,6 @@
 # Exploratory Data Analysis - Customer Loans in Finance
 ## Description
-An exploratory Data analysis on Customer Loans in Finance. Used a CSV file given by AiCore to clean the data and complete an analysis on the resulting values.
+An exploratory Data analysis on Customer Loans in Finance. Extracted a CSV file from an S3 bucket to clean and analyse loans data.
 
 ## File Structure
 
